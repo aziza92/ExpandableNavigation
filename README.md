@@ -1,2 +1,2 @@
 # ExpandableSearchBar
-Employ SwiftUI to construct an expandable and appealing navigation and search bar utilizing the new APIs of iOS 17.
+Demo SwiftUI app showing an expandable search bar using the new iOS 17 functions.
