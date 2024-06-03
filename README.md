@@ -1,6 +1,7 @@
 # ExpandableSearchBar
 ---------------------------------------------------------------------------------
-![Static Badge](https://img.shields.io/badge/v5.0-maker?label=swift&color=orange)
+![Static Badge](https://img.shields.io/badge/v5.0-maker?label=swift&color=orange) ![Static Badge](https://img.shields.io/badge/IOS-maker?label=platforms&color=blue)
+
 
 
 📝 Description
