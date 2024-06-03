@@ -12,3 +12,10 @@ Demo SwiftUI app showing an expandable search bar using the new iOS 17 functions
 
 
 The project contains unit and snapshot tests. Reference images for snapshot tests were recorded using iPhone 15 Pro simulator.
+
+
+📄 License
+
+Copyright © 2024 Aziza Elgoul
+
+License: MIT
